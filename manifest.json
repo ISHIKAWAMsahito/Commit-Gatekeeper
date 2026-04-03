@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Prime Video Gatekeeper",
+  "version": "1.0",
+  "description": "GitHubの更新がない場合にAmazon Prime Videoを遮断します。",
+  "permissions": [],
+  "host_permissions": [
+    "http://localhost:3000/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.amazon.co.jp/gp/video/*",
+        "*://www.amazon.co.jp/v/*",
+        "*://www.amazon.co.jp/Amazon-Video/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
