@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "🚀 Push 成功を確認しました。アマプラの封印を解きます..."
+curl -s "http://localhost:3000/api/check-unlock" > /dev/null
+echo "✅ 門番サーバーに達成状況を送信しました。"
