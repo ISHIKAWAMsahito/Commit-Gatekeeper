@@ -1,0 +1,35 @@
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+--- 状態チェック開始 ---
+[GitHub] ❌ 今日のPushEventがありません。（判定日: 2026-04-04）
+[判定結果] 解禁フラグ: false

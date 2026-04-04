@@ -15,6 +15,14 @@ const dbConfig = {
     database: process.env.DB_NAME
 };
 
+// 起動時に読み込み状況を確認（パスワードは防犯のため伏せ字）
+console.log('--- DB Config Check ---');
+console.log('DB_HOST:', process.env.DB_HOST);
+console.log('DB_USER:', process.env.DB_USER);
+console.log('DB_NAME:', process.env.DB_NAME);
+console.log('DB_PASS:', process.env.DB_PASS ? '******** (Set)' : 'EMPTY');
+console.log('-----------------------');
+
 const GITHUB_USER = process.env.GITHUB_USER;
 // トークン前後の不要な空白などを除去
 const QIITA_TOKEN = process.env.QIITA_TOKEN ? process.env.QIITA_TOKEN.trim() : '';
