@@ -112,30 +112,33 @@ async function checkQiita() {
 app.get('/api/check-unlock', async (req, res) => {
     let connection;
     try {
-        console.log('--- 状態チェック開始 ---');
+        console.log('--- Amazon Prime 制限チェック開始 ---');
         connection = await mysql.createConnection(dbConfig);
         const todayJST = getJSTDateString();
 
+        // 1. 各サービスの最新状況を取得 
         const isCommitted = await checkGitHub();
         const isQiitaUpdated = await checkQiita();
 
+        // 2. 解禁条件の判定 (どちらか一方でOKなら true)
+        const canUnlock = isCommitted || isQiitaUpdated;
+
+        // 3. DBの更新（is_unlocked 列も更新対象に含める） 
         await connection.execute(
-            `INSERT INTO achievement_status (target_date, github_committed, qiita_updated) 
-             VALUES (?, ?, ?) 
-             ON DUPLICATE KEY UPDATE github_committed = ?, qiita_updated = ?`,
-            [todayJST, isCommitted, isQiitaUpdated, isCommitted, isQiitaUpdated]
+            `INSERT INTO achievement_status (target_date, github_committed, qiita_updated, is_unlocked) 
+             VALUES (?, ?, ?, ?) 
+             ON DUPLICATE KEY UPDATE 
+                github_committed = ?, 
+                qiita_updated = ?, 
+                is_unlocked = ?`,
+            [todayJST, isCommitted, isQiitaUpdated, canUnlock, isCommitted, isQiitaUpdated, canUnlock]
         );
 
-        const [rows] = await connection.execute(
-            'SELECT is_unlocked FROM achievement_status WHERE target_date = ?',
-            [todayJST]
-        );
-
-        const isUnlocked = rows.length > 0 ? !!rows[0].is_unlocked : false;
-        console.log(`[判定結果] 解禁フラグ: ${isUnlocked}`);
+        // 4. 最新の状態をレスポンスとして返す 
+        console.log(`[判定結果] 解禁フラグ: ${canUnlock} (GitHub: ${isCommitted}, Qiita: ${isQiitaUpdated})`);
         
         res.json({ 
-            is_unlocked: isUnlocked,
+            is_unlocked: canUnlock,
             github_status: isCommitted,
             qiita_status: isQiitaUpdated
         });

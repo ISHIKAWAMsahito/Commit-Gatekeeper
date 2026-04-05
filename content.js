@@ -1,40 +1,54 @@
-// アマプラ監視と遮断
 async function enforceWork() {
+    // 買い物ページなどは除外（念のための二重チェック）
+    if (!location.href.includes('/video/') && !location.href.includes('/Prime-Video')) {
+        return;
+    }
+
     try {
         const response = await fetch('http://localhost:3000/api/check-unlock');
         const data = await response.json();
 
-        // 解禁されていない（草が生えていない）場合に画面を隠す
         if (!data.is_unlocked) {
+            // 既存のオーバーレイがあれば削除して作り直す
+            const oldOverlay = document.getElementById('gatekeeper-overlay');
+            if (oldOverlay) oldOverlay.remove();
+
             const overlay = document.createElement('div');
+            overlay.id = 'gatekeeper-overlay';
             overlay.style.cssText = `
                 position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-                background: rgba(0,0,0,0.97); z-index: 2147483647;
+                background: rgba(0,0,0,0.98); z-index: 2147483647;
                 display: flex; flex-direction: column; align-items: center; justify-content: center;
-                color: white; font-family: sans-serif; text-align: center;
+                color: white; font-family: "Hiragino Kaku Gothic ProN", sans-serif; text-align: center;
             `;
 
             overlay.innerHTML = `
-                <h1 style="font-size: 3em; margin-bottom: 0.5em;">🚫 視聴制限中 🚫</h1>
-                <p style="font-size: 1.5em; max-width: 700px; line-height: 1.6; margin-bottom: 2em;">
-                    今日の草が生えていません。<br>
-                    アニメを見る前に、未来の自分に投資しましょう。
+                <h1 style="font-size: 2.5em;">🚫 Prime Video 制限中 🚫</h1>
+                <p style="font-size: 1.2em; margin: 20px;">
+                    今日のノルマ（GitHub / Qiita）が未達成です。<br>
+                    作業を終えてから楽しみましょう。
                 </p>
-                <div id="github-graph">
-                    <p style="margin-bottom: 10px; color: #888;">Current GitHub Status:</p>
-                    <img src="https://ghchart.rshah.org/ISHIKAWAMasahito" alt="GitHub Grass" 
-                         style="background: white; padding: 20px; border-radius: 10px;">
-                </div>
-                <button onclick="location.reload()" style="margin-top: 40px; padding: 10px 20px; cursor: pointer; border-radius: 5px; border: none; background: #2ea44f; color: white; font-weight: bold;">
-                    更新を確認する
+                <img src="https://ghchart.rshah.org/ISHIKAWAMasahito" style="background: white; padding: 10px; border-radius: 5px;">
+                <button onclick="location.reload()" style="margin-top: 30px; padding: 12px 24px; cursor: pointer; background: #2ea44f; color: white; border: none; border-radius: 5px; font-weight: bold;">
+                    達成したので再読み込みする
                 </button>
             `;
-            document.body.appendChild(overlay);
-            document.body.style.overflow = 'hidden'; 
+            document.documentElement.appendChild(overlay); // bodyがない場合を考慮
         }
     } catch (e) {
-        console.error("Gatekeeper Serverに接続できません。");
+        console.error("Gatekeeper Server is offline.");
     }
 }
 
+// 初回実行
 enforceWork();
+
+// SPA対策：URLが変わったときもチェック
+let lastUrl = location.href;
+new MutationObserver(() => {
+    const url = location.href;
+    if (url !== lastUrl) {
+        lastUrl = url;
+        enforceWork();
+    }
+}).observe(document, {subtree: true, childList: true});
