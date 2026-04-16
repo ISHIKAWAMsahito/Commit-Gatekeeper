@@ -1,0 +1,1184 @@
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ override existing { override: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ enable debugging { debug: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌘ suppress logs { quiet: true }
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
+◇ injecting env (6) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+--- DB Config Check ---
+DB_HOST: localhost
+DB_USER: root
+DB_NAME: productivity_gatekeeper
+DB_PASS: ******** (Set)
+-----------------------
+🚀 Gatekeeper Server is running on http://localhost:3000
